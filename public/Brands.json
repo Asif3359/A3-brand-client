@@ -1,0 +1,32 @@
+[
+    {
+        "id": 5,
+        "brandName": "Lamborghini",
+        "logo": "https://i.pinimg.com/originals/f3/83/6a/f3836a4816c007b1e98823e6f8e30fc5.png"
+    },
+    {
+        "id": 4,
+        "brandName": "Mercedes Benz",
+        "logo": "https://tiermaker.com/images/templates/truck-brands-1601013/16010131647724623.png"
+    },
+    {
+        "id": 6,
+        "brandName": "Nissan",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nissan_logo.png/1050px-Nissan_logo.png"
+    },
+    {
+        "id": 3,
+        "brandName": "Rolls Royce",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/255px-Rolls-Royce_Motor_Cars_logo.svg.png"
+    },
+    {
+        "id": 2,
+        "brandName": "Audi",
+        "logo": "https://th.bing.com/th/id/R.0ad6be08c017c7028ea6bf222846198f?rik=8bBrwWQ5d6oAAQ&riu=http%3a%2f%2ftous-logos.com%2fwp-content%2fuploads%2f2017%2f08%2fLogo-Audi.png&ehk=XVXFYXI%2bOps7gL32UszNe8ZspUD221KF0sfmtlFoJp4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 1,
+        "brandName": "BMW",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/270px-BMW_logo_%28gray%29.svg.png"
+    }
+]
