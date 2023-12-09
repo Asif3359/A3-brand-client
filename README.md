@@ -55,12 +55,15 @@
 </ul>
 
 
-## Tooles use 
-<li> React js </li>
-<li> Tailwind css </li>
-<li> Authentication (fireBase) </li>
-<li> Backend (Mongodb) </li>
-<li> Expressjs</li>
-<li>Deaisy Ui</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>React js</li>
+<li>Tailwindcss</li>
+<li>Daisy ui</li>
+<li>Backend(mongodb)</li>
+<li>Express.js</li>
+<li>Authentication(fireBase)</li>
+<li>Client site host(Firebase)</li>
+<li>Server site host (vercel) </li>
 
 
