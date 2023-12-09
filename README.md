@@ -54,3 +54,13 @@
     <li>There is an option to change the theme with Taggle. Taggle is in the navbar.</li>
 </ul>
 
+
+## Tooles use 
+<li> React js </li>
+<li> Tailwind css </li>
+<li> Authentication (fireBase) </li>
+<li> Backend (Mongodb) </li>
+<li> Expressjs</li>
+<li>Deaisy Ui</li>
+
+
